@@ -38,6 +38,9 @@ Sistema completo com:
 ## 🛠️ Tecnologias
 
 - C
+- Java
+- C++
+- mySQL
 - Git
 - GitHub
 - Estrutura modular
