@@ -1,54 +1,130 @@
-# 👋 Olá, eu sou Isaque Valim
+# 👨‍💻 Isaque Valim
+---
+**Desenvolvedor Backend**
 
-🎓 Estudante de Ciência da Computação
-💻 Desenvolvedor com foco em Back-End  
+🎓 Estudante de Ciência da Computação <br>
+💻 Desenvolvedor com foco em Back-End  <br>
 🚀 Em busca de oportunidade de estágio em desenvolvimento  
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou estudante com forte interesse em desenvolvimento de sistemas estruturados, organização de código e boas práticas de programação.
-
-Desenvolvi projetos acadêmicos completos, com persistência de dados em arquivos, aplicando conceitos como:
-
-- Modularização
-- Manipulação de arquivos
-- Estruturação de funções
-- Organização de dados
-
-Tenho foco em evolução constante e construção de base sólida em programação.
+Me chamo Isaque Rodrigues Valim e tenho 19 anos, sou natural de São Paulo. Atualmente tenho cursado Ciência da Computação na UBC (Universidade Braz Cubas). Apaixonado por tecnologia busco aprendizado e desenvolvimento constante.
 
 ---
 
-## 📌 Projeto em destaque
-
-### 🛒 ByteShop – Sistema de E-commerce em C  
-🔗 https://github.com/Isaaquevalim/byteshop-ecormmerce-c
-
-Sistema completo com:
-- Cadastro de usuários
-- Cadastro de produtos
-- Carrinho de compras
-- Persistência em arquivos `.txt`
-- Estrutura modular com múltiplos arquivos `.c` e `.h`
+<p align="left"> 
+    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/Isaaquevalim?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/Isaaquevalim?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Isaaquevalim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/isaque-valim-82a231251">
+        <img 
+            alt="LinkedIn" 
+            title="Me siga no Linkedin" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Isaaquevalim?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin67&label=Linkedin"
+        />
+    </a>
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+### 🤖 Linguagens e Tecnologias
 
-- C
-- Java
-- C++
-- mySQL
-- Git
-- GitHub
-- Estrutura modular
-- Manipulação de arquivos
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+          
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Isaaquevalim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaaqueValim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+  />
+
+</p>
 
 ---
 
 ## 📫 Contato
 
 📧 isaque.rvalim@gmail.com
-🔗 https://www.linkedin.com/feed/
